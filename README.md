@@ -1,4 +1,4 @@
-# Turtlebot_on_noetic
+# Turtlebot_on_Noetic
 
 The Turtlebot2 packages installation on ROS noetic
 
